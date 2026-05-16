@@ -2,7 +2,7 @@
 
 > AI-Powered Enterprise Engagement, Forecasting & Intelligent Decision Automation Platform
 
-![Architecture](architecture/high-level-architecture.png)
+![Architecture](https://raw.githubusercontent.com/NiteshSingh-Luckyperson/enterprise-agentic-ai-platform/main/Agentic%20AI%20Diagram.png)
 
 ---
 
