@@ -2,7 +2,7 @@
 
 > AI-Powered Enterprise Engagement, Forecasting & Intelligent Decision Automation Platform
 
-![Architecture](architecture/high-level-architecture.png)
+![Architecture](architecture/Agentic AI Diagram.png)
 
 ---
 
